@@ -2,7 +2,10 @@ mods/
 jarmods/
 disabledmods/
 crash-reports/
-journeymap/
+journeymap/data/
+journeymap/icon/
+journeymap/server/
+journeymap/journeymap.log
 logs/
 resourcepacks/
 saves/
