@@ -1,0 +1,15 @@
+mods/
+jarmods/
+disabledmods/
+crash-reports/
+journeymap/
+logs/
+resourcepacks/
+saves/
+schematics/
+shaderpacks/
+*.zip
+*.jar
+information.txt
+usercache.json
+usernamecache.json
