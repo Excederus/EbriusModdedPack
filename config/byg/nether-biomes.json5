@@ -93,15 +93,15 @@ If your settings in this file seem to have to no effect on the generation of the
 				"weight": 0
 			},
 			{
-				"data": "incendium:quartz_flats",
-				"weight": 2
-			},
-			{
 				"data": "incendium:infernal_dunes",
 				"weight": 2
 			},
 			{
 				"data": "incendium:weeping_valley",
+				"weight": 2
+			},
+			{
+				"data": "incendium:inverted_forest",
 				"weight": 2
 			},
 			{
@@ -113,7 +113,7 @@ If your settings in this file seem to have to no effect on the generation of the
 				"weight": 2
 			},
 			{
-				"data": "incendium:ash_barrens",
+				"data": "incendium:quartz_flats",
 				"weight": 2
 			},
 			{
@@ -121,7 +121,7 @@ If your settings in this file seem to have to no effect on the generation of the
 				"weight": 2
 			},
 			{
-				"data": "incendium:inverted_forest",
+				"data": "incendium:ash_barrens",
 				"weight": 2
 			}
 		]
@@ -213,15 +213,15 @@ If your settings in this file seem to have to no effect on the generation of the
 				"weight": 0
 			},
 			{
-				"data": "incendium:quartz_flats",
-				"weight": 2
-			},
-			{
 				"data": "incendium:infernal_dunes",
 				"weight": 2
 			},
 			{
 				"data": "incendium:weeping_valley",
+				"weight": 2
+			},
+			{
+				"data": "incendium:inverted_forest",
 				"weight": 2
 			},
 			{
@@ -233,7 +233,7 @@ If your settings in this file seem to have to no effect on the generation of the
 				"weight": 2
 			},
 			{
-				"data": "incendium:ash_barrens",
+				"data": "incendium:quartz_flats",
 				"weight": 2
 			},
 			{
@@ -241,7 +241,7 @@ If your settings in this file seem to have to no effect on the generation of the
 				"weight": 2
 			},
 			{
-				"data": "incendium:inverted_forest",
+				"data": "incendium:ash_barrens",
 				"weight": 2
 			}
 		]
